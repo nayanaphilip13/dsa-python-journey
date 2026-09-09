@@ -1,0 +1,91 @@
+Our Complete DSA Learning Path 🚀
+🟢 Phase 1 — Python Basics (COMPLETED ✅)
+Variables
+Lists
+len()
+Loops
+if/elif/else
+Functions
+Dictionaries
+Strings
+
+
+🔵 Phase 2 — DSA Fundamentals 
+📌 Week 1 — Arrays & Searching
+        → What is an Array
+        → Linear Search
+        → Binary Search
+        → Basic Array problems
+
+📌 Week 2 — Sorting
+        → Bubble Sort
+        → Selection Sort
+        → Insertion Sort
+        → When to use which sort
+
+📌 Week 3 — Strings
+        → String problems
+        → Reverse a string
+        → Check palindrome
+        → Count characters
+
+📌 Week 4 — Functions & Recursion
+        → What is Recursion
+        → Factorial
+        → Fibonacci
+        → Simple recursive problems
+🟡 Phase 3 — Intermediate DSA
+📌 Week 5 — Stack
+        → What is a Stack
+        → Push & Pop
+        → Real problems with Stack
+
+📌 Week 6 — Queue
+        → What is a Queue
+        → Enqueue & Dequeue
+        → Real problems with Queue
+
+📌 Week 7 — Linked List
+        → What is a Linked List
+        → Add & Remove nodes
+        → vs Arrays — when to use what
+
+📌 Week 8 — Hash Maps / Dictionaries (Deep Dive)
+        → How hashing works
+        → Frequency counting problems
+        → Two Sum problem
+        → Most common interview problems
+🔴 Phase 4 — Advanced DSA
+📌 Week 9 — Trees
+        → What is a Tree
+        → Binary Tree
+        → Tree Traversal
+        → Common tree problems
+
+📌 Week 10 — Graphs
+        → What is a Graph
+        → BFS (Breadth First Search)
+        → DFS (Depth First Search)
+        → Real life — Google Maps example
+
+📌 Week 11 — Dynamic Programming
+        → What is DP
+        → Memoization
+        → Classic DP problems
+        → Fibonacci with DP
+
+📌 Week 12 — Big-O & Complexity
+        → Time Complexity
+        → Space Complexity
+        → Analyzing your own code
+        → Interview explanation practice
+🏆 Phase 5 — Interview Preparation
+📌 Week 13-16 — Practice & Mock Interviews
+        → Top 50 most asked interview problems
+        → Arrays problems (most common!)
+        → String problems
+        → Tree problems
+        → Mixed problems
+        → How to explain your solution
+        → Talking while coding (very important!)
+        → LeetCode Easy → Medium problems
